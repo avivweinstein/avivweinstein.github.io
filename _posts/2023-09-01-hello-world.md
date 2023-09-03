@@ -4,7 +4,7 @@ title: "Hello World"
 categories:
   - Blog
 tags:
-  - misc
+  - Misc.
 ---
 
 This is going to be my first post on my website. Hope this goes well!
