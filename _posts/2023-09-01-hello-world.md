@@ -7,4 +7,5 @@ tags:
   - Misc.
 ---
 
-This is going to be my first post on my website. Hope this goes well!
+# Hello World!
+This is going to be my first post on my website. Thanks for checking it out!
