@@ -78,6 +78,8 @@ author:
   name   : "Aviv Weinstein"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "ML Systems Engineering @ Groq"
+  location: "Seattle, WA"
+  email: 
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
