@@ -23,15 +23,18 @@
 title: Aviv Weinstein
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Personal website and blog of Aviv Weinstein - ML Systems Engineering @ Groq.
+  Sharing insights on machine learning, engineering, and life.
 twitter_username: username
 github_username: avivweinstein
 minimal_mistakes_skin: default
 search: true
 locale: "en-US"
 url: "https://avivweinstein.github.io/"
+
+# Atom feed settings
+atom_feed:
+  hide: true
 
 # Build settings
 markdown: kramdown
@@ -91,7 +94,7 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/aviv.weinstein/"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/aviv-weinstein/"
 
 # Site Footer
@@ -107,7 +110,7 @@ footer:
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/aviv.weinstein/"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/aviv-weinstein/"
 
 defaults:
