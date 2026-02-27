@@ -7,3 +7,22 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// Remove sidebar fade effect
+.sidebar {
+  opacity: 1 !important;
+  transition: none !important;
+}
+
+// Fix visited link color (post titles look muted after clicking them)
+a:visited {
+  color: rgb(47.2, 124.8, 148.8);
+}
+
+// Fix muted nav header link colors
+.greedy-nav a {
+  color: #3d4144;
+}
+.greedy-nav a:hover {
+  color: #000;
+}
