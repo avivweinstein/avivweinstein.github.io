@@ -26,3 +26,13 @@ a:visited {
 .greedy-nav a:hover {
   color: #000;
 }
+
+// Widen content area and cap at a readable line length
+@media (min-width: 64em) {
+  .page {
+    padding-inline-end: 0;
+  }
+  .page__content {
+    max-width: 720px;
+  }
+}
