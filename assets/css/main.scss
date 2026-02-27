@@ -27,15 +27,16 @@ a:visited {
   color: #000;
 }
 
-// Make GitHub and X icons blue to match LinkedIn
-.social-icons .fa-github,
-.social-icons .fa-github-alt,
-.social-icons .fa-github-square {
-  color: #007bb6;
+// Make sidebar social link labels black
+.author__urls a .label {
+  color: #000;
 }
-.social-icons .fa-x-twitter,
-.social-icons .fa-square-x-twitter {
-  color: #007bb6;
+
+// Keep location icon and text on one line, in black
+[itemprop="homeLocation"] a {
+  display: inline;
+  color: #000;
+  white-space: nowrap;
 }
 
 // Widen content area and cap at a readable line length
