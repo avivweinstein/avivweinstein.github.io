@@ -1,9 +1,10 @@
 ---
 title: "Aviv's Challah Recipe"
 categories:
-  - Blog
+  - Cooking
 tags:
   - Cooking
+excerpt: "My perfected challah recipe after months of iteration — no stand mixer required."
 ---
 # Aviv’s Challah Recipe
 

@@ -1,11 +1,11 @@
 ---
 title: "Productize Yourself"
-# last_modified_at: 2016-03-09T16:20:02-05:00
 categories:
-  - Blog
+  - Career
 tags:
   - Career
   - Growth
+excerpt: "Having skills isn't enough — Naval's idea of productizing yourself is what makes the difference."
 ---
 # Productize Yourself
 

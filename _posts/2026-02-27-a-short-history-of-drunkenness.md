@@ -1,9 +1,10 @@
 ---
 title: "A Short History of Drunkenness"
 categories:
-  - Blog
+  - Books
 tags:
   - Books
+excerpt: "Mark Forsyth tours 10,000 years of human drinking culture — funnier and more quietly profound than it sounds."
 ---
 
 # A Short History of Drunkenness

@@ -1,10 +1,11 @@
 ---
 title: "69 Pieces of Advice"
 categories:
-  - Blog
+  - Life
 tags:
   - Life
   - Growth
+excerpt: "A collection of 69 pieces of advice worth keeping."
 ---
 # 69 Pieces of Advice
 1.  Learn how to learn from those you disagree with, or even offend you. See if you can find the truth in what they believe.

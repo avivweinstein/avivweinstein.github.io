@@ -1,10 +1,10 @@
 ---
 title: "Maybe So. Maybe Not"
-# last_modified_at: 2016-03-09T16:20:02-05:00
 categories:
-  - Blog
+  - Life
 tags:
   - Life
+excerpt: "A Chinese parable about staying open-minded when life gets unpredictable."
 ---
 # Maybe So. Maybe Not.
 ## Embracing Uncertainty. Lessons from a Chinese Parable

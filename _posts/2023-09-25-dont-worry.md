@@ -1,10 +1,11 @@
 ---
 title: "Don’t Worry About Being an Expert"
 categories:
-  - Blog
+  - Life
 tags:
   - Life
   - Growth
+excerpt: "You don’t need to become an expert — and social comparison is exactly what kills skill acquisition early on."
 ---
 # Don’t Worry About Being an Expert
 

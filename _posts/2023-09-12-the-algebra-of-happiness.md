@@ -1,10 +1,11 @@
 ---
 title: "The Algebra of Happiness"
 categories:
-  - Blog
+  - Books
 tags:
   - Books
   - Life
+excerpt: "Scott Galloway's take on professional success and personal fulfillment — a few ideas worth keeping."
 ---
 
 # The Algebra of Happiness
