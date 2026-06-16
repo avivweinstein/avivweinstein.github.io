@@ -3,8 +3,8 @@ title: "The Algebra of Happiness"
 categories:
   - Blog
 tags:
-  - Misc.
-  - Growth
+  - Books
+  - Life
 ---
 
 # The Algebra of Happiness
@@ -20,7 +20,7 @@ The ratio of the time you spend sweating vs. watching others sweat is a forward 
 
 Show me a guy who watches ESPN every night, spends all Sunday watching football, and doesn't work out; and i'll show you a future of anger and failed relationships.
 
-Some me someone who sweats everyday and spends as much time participating in sports as they do watching them on TV, and i'll show you someone someone who is good at life.
+Show me someone who sweats everyday and spends as much time participating in sports as they do watching them on TV, and I'll show you someone who is good at life.
 
 ## The Myth of Balance
 
@@ -36,7 +36,7 @@ Successful people have a lot of balance later in life, because earlier on they h
 
 Life in your early years (childhood, teen, college) are pure magic. This is one of the two stages in life when you are happiness
 
-However, from your mid 20s to your mid 40s, shit gets real. Work, stress, and the realization that, despite what your mom told you, you won't have a hollywood star. As you age, the stress of building the life you've been told you deserve begins to take a toll. This is when you are generally at your least happy.
+However, from your mid 20s to your mid 40s, shit gets real. Work, stress, and the realization that, despite what your mom told you, you won't have a star on the Hollywood Walk of Fame. As you age, the stress of building the life you've been told you deserve begins to take a toll. This is when you are generally at your least happy.
 
 Then as you hit your 50s, if you're soulful, you start to register your blessings, acknowledge your mortality, and begin affording yourself the happiness you deserve.
 
@@ -72,7 +72,7 @@ Start putting away money, early and often. Think of it kind of like a magic box.
   
 ## Equity = Wealth
 
-It's difficult to obtain economic security with just your salary, because you will naturally raise/lower your lifestyle to match your current income. As soon as possible, buy properties and stocks. Find a job that has forced savings for a retirement plan or potions on the firm's equity.
+It's difficult to obtain economic security with just your salary, because you will naturally raise/lower your lifestyle to match your current income. As soon as possible, buy properties and stocks. Find a job that has forced savings for a retirement plan or options on the firm's equity.
 
 The definition of rich? Passive income that is greater than your burn.
 

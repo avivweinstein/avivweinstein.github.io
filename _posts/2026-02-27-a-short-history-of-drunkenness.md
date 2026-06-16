@@ -3,7 +3,6 @@ title: "A Short History of Drunkenness"
 categories:
   - Blog
 tags:
-  - Misc.
   - Books
 ---
 

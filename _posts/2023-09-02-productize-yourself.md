@@ -4,9 +4,8 @@ title: "Productize Yourself"
 categories:
   - Blog
 tags:
-  - Misc.
+  - Career
   - Growth
-  - Sales
 ---
 # Productize Yourself
 

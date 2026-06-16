@@ -4,7 +4,7 @@ title: "Hello World"
 categories:
   - Blog
 tags:
-  - Misc.
+  - Personal
 ---
 
 # Hello World!

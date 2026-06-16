@@ -3,7 +3,7 @@ title: "69 Pieces of Advice"
 categories:
   - Blog
 tags:
-  - Misc.
+  - Life
   - Growth
 ---
 # 69 Pieces of Advice

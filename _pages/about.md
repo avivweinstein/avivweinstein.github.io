@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-Hello there. My name is Aviv. Im based out of the ever beautiful Pacific Northwest. Welcome to my page.
+Hello there. My name is Aviv. I'm based out of the ever beautiful Pacific Northwest. Welcome to my page.
 
 I work at NVIDIA as an AI/ML systems software engineer. I love working on AI infrastructure: the hardware, the software stack on top of it, and everything in between. I'm particularly interested in how modern AI systems actually work at the lower levels — making them observable, controllable, and fast.
 

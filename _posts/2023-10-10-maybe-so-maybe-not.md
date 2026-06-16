@@ -4,7 +4,7 @@ title: "Maybe So. Maybe Not"
 categories:
   - Blog
 tags:
-  - Misc.
+  - Life
 ---
 # Maybe So. Maybe Not.
 ## Embracing Uncertainty. Lessons from a Chinese Parable

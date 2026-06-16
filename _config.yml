@@ -30,11 +30,11 @@ github_username: avivweinstein
 minimal_mistakes_skin: default
 search: true
 locale: "en-US"
-url: "https://avivweinstein.github.io/"
+url: "https://avivweinstein.github.io"
 
 # Atom feed settings
 atom_feed:
-  hide: true
+  hide: false
 
 # Build settings
 markdown: kramdown

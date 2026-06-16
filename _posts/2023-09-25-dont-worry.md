@@ -3,7 +3,8 @@ title: "Don’t Worry About Being an Expert"
 categories:
   - Blog
 tags:
-  - Misc.
+  - Life
+  - Growth
 ---
 # Don’t Worry About Being an Expert
 

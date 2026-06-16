@@ -9,7 +9,7 @@ tags:
 
 Back in 2021, I got obsessed with being able to make great challah. As such, I spent the next several months to a year iterating and iterating over challah recipes; all in order to arrive at my perfect challah recipe.
 
-Forget other recipes, I have experimented around enough so far and think (completely unbiased thinking, might I add) that my recipe is the best one out there. You dont need a heavy and expensive stand mixer or any fancy bread flowers for my recipe. I keep things simple in my super secret recipe.
+Forget other recipes, I have experimented around enough so far and think (completely unbiased thinking, might I add) that my recipe is the best one out there. You don't need a heavy and expensive stand mixer or any fancy bread flours for my recipe. I keep things simple in my super secret recipe.
 
 With that said, my recipe is a mix of the following two recipes:  
 * [https://www.kingarthurbaking.com/recipes/classic-challah-recipe](https://www.kingarthurbaking.com/recipes/classic-challah-recipe)  
